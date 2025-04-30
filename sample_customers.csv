@@ -1,0 +1,5 @@
+customer_id,name,email,age,country,purchase_amount,ssn
+101,Alice,alice@example.com,25,USA,250.75,123-45-6789
+102,Bob,bob@example.com,30,UK,300.4,234-56-7890
+103,Charlie,charlie@example.com,35,Canada,150.0,345-67-8901
+104,Diana,diana@example.com,28,Germany,420.2,456-78-9012
